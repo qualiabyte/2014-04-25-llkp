@@ -1,0 +1,15 @@
+{
+  "name": "apr-25-parser",
+  "version": "0.0.0",
+  "description": "Playing with llkp (ABNF and PEG grammars)!",
+  "main": "demo.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Tyler Florez (@qualiabyte)",
+  "license": "MIT",
+  "dependencies": {
+    "llkp": "0.0.6",
+    "lodash": "~2.4.1"
+  }
+}
